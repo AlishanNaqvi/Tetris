@@ -19,4 +19,4 @@ A modern version of the classic Tetris game built using JavaScript, HTML, and CS
 - Rotate Piece: Up Arrow
 - Fast Drop: Down Arrow
 - Instant Drop: Space Bar
-- 
+  
