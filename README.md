@@ -20,9 +20,3 @@ A modern version of the classic Tetris game built using JavaScript, HTML, and CS
 - Fast Drop: Down Arrow
 - Instant Drop: Space Bar
 - 
----
-
-## ⚙️ Technologies Used
-- JavaScript - Game logic and interactions
-- HTML - Structure of the game
-- CSS - Styling and layout
