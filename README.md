@@ -1,6 +1,6 @@
 # Tetris 🎮
 
-A modern version of the classic Tetris game built using JavaScript, HTML, and CSS. Enjoy the nostalgia with smooth animations, responsive controls, and a sleek design.
+A modern version of the classic Tetris game built using JavaScript, TypeScript, and CSS. Enjoy the nostalgia with smooth animations, responsive controls, and a sleek design.
 
 ---
 
